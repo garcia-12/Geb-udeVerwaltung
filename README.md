@@ -36,13 +36,13 @@ Geb-udeVerwaltung/
 
 ### Schritte
 
-```bash
+
 cd Geb-udeVerwaltung
 mkdir build && cd build
 cmake ..
 make
 ./GebaeudeVerwaltung  # Oder der entsprechende Binary-Name
-```
+
 
 ## 👨‍🎓 Über mich
 
